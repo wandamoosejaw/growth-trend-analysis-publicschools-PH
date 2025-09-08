@@ -1,6 +1,8 @@
 # Growth Trend Analysis Public Schools PH
 A project dedicated to provide an analysis towards the dataset from Kaggle named [Philippine Public School Teachers and Students](https://www.kaggle.com/datasets/franksebastiancayaco/philippine-public-school-teachers-and-students?resource=download).
 
+![Total Students By School Level Over Time](total_students_by_school_level_over_time.png)
+![Total Teachers By School Level Over Time](total_teachers_by_school_level_over_time.png)
 ## **Key Findings**
 
 The analysis of public school student and teacher populations in the Philippines reveals distinct trends over the last decade. The student population exhibits varied growth across different school levels, a trend not uniformly mirrored in the teacher population.
